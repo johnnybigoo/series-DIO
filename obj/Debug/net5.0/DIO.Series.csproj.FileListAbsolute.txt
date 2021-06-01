@@ -1,0 +1,5 @@
+/Users/Jones_Mac/Projects/Cs/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.AssemblyReference.cache
+/Users/Jones_Mac/Projects/Cs/DIO.Series/obj/Debug/net5.0/DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Jones_Mac/Projects/Cs/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfoInputs.cache
+/Users/Jones_Mac/Projects/Cs/DIO.Series/obj/Debug/net5.0/DIO.Series.AssemblyInfo.cs
+/Users/Jones_Mac/Projects/Cs/DIO.Series/obj/Debug/net5.0/DIO.Series.csproj.CoreCompileInputs.cache
